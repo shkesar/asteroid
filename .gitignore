@@ -31,3 +31,9 @@
 # Debug files
 *.dSYM/
 *.su
+
+# OS X
+.DS_Store
+
+# Logs
+*.log
